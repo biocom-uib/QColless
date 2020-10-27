@@ -1,0 +1,4 @@
+[submodule "TreeShapeStats"]
+	path = TreeShapeStats
+	url = https://github.com/tomasmcoronado/TreeShapeStats.git
+	branch = colless2
