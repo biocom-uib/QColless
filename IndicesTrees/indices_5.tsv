@@ -1,0 +1,4 @@
+newick	colless	sackin	cophenetic	qi	cherries	automorphisms
+(*,(*,(*,(*,*))));	6	14	10	0	1	2
+(*,((*,*),(*,*)));	3	13	8	3	2	8
+((*,*),(*,(*,*)));	2	12	5	9	2	4
